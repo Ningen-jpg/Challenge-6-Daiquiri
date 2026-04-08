@@ -19,7 +19,7 @@ Briefly describe what your app does. For example: "This project explores renderi
 ## 📸 Screenshots
 <table align="center">
   <tr>
-    <td><img src="Assets/screenshot1.png" width="250" alt="Home Screen"/></td>
+    <td><img src="Challenge 6/Blender Screnshot.png" width="250" alt="Home Screen"/></td>
     <td><img src="Assets/screenshot2.png" width="250" alt="3D Viewer Screen"/></td>
     <td><img src="Assets/screenshot3.png" width="250" alt="Details Screen"/></td>
   </tr>
@@ -32,5 +32,5 @@ Talk a bit about your Blender process here.
 * Did you bake the lighting? 
 
 <p align="center">
-  <img src="Assets/hero-banner.png" width="800" alt="Blender Render"/>
+  <img src="Challenge 6/Blender Screnshot.png" width="800" alt="Blender Render"/>
 </p>
