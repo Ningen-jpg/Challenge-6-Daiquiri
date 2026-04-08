@@ -34,8 +34,3 @@ Talk a bit about your Blender process here.
 <p align="center">
   <img src="Assets/hero-banner.png" width="800" alt="Blender Render"/>
 </p>
-
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
