@@ -22,7 +22,7 @@ The style used as reference specifically is Megaman Legends for the PS1.
 <table align="center">
   <tr>
     <td><img src="Challenge 6/SCReenshot genie.png" width="250" alt="Starting Screen"/></td>
-    <td><img src="Challenge 6/Screenshot Genie APP.pngv" width="250" alt="Final Screen"/></td>
+    <td><img src="Challenge 6/Screenshot Genie APP.png" width="250" alt="Final Screen"/></td>
   </tr>
 </table>
 
