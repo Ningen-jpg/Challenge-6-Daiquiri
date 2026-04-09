@@ -14,23 +14,22 @@ This is the repository for the challenge 6 at the apple academy for the BLACK MO
 ---
 
 ## 🌟 Overview
-Briefly describe what your app does. For example: "This project explores rendering custom 3D environments natively in iOS using RealityKit. The scene was modeled and textured entirely in Blender, exported to USDZ, and brought to life with SwiftUI."
+These are the progress made on the development of a 3D model so that it can be put in a 3D scene inside of an app.
+We used a low-poly style to be able to create a stylized character to be put in an app. 
+The style used as reference specifically is Megaman Legends for the PS1.
 
 ## 📸 Screenshots
 <table align="center">
   <tr>
-    <td><img src="Challenge 6/Blender Screnshot.png" width="250" alt="Home Screen"/></td>
-    <td><img src="Assets/screenshot2.png" width="250" alt="3D Viewer Screen"/></td>
-    <td><img src="Assets/screenshot3.png" width="250" alt="Details Screen"/></td>
+    <td><img src="Challenge 6/SCReenshot genie.png" width="250" alt="Starting Screen"/></td>
+    <td><img src="Challenge 6/Screenshot Genie APP.pngv" width="250" alt="Final Screen"/></td>
   </tr>
 </table>
 
 ## 🛠️ The 3D Model
-Talk a bit about your Blender process here. 
-* What inspired the scene? 
-* How many polygons? 
-* Did you bake the lighting? 
-
+* Created the model bottom-up
+* Used Megaman Legends as reference for style
+* Low polygon is timeless and it's really easy to render
 <p align="center">
   <img src="Challenge 6/Blender Screnshot.png" width="800" alt="Blender Render"/>
 </p>
